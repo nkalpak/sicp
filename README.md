@@ -44,3 +44,8 @@
 42. Logic programming (4.4.1–3)
 43. Logic programming (4.4.1–3)
 44. Review (4.4.1–3)
+
+# Links
+
+Labs - https://inst.eecs.berkeley.edu//~cs61a/reader/nodate-labs.pdf
+Homework - https://inst.eecs.berkeley.edu//~cs61a/reader/nodate-hw.pdf
