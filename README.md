@@ -49,3 +49,4 @@
 
 Labs - https://inst.eecs.berkeley.edu//~cs61a/reader/nodate-labs.pdf
 Homework - https://inst.eecs.berkeley.edu//~cs61a/reader/nodate-hw.pdf
+SICP info - https://github.com/zackads/sicp
